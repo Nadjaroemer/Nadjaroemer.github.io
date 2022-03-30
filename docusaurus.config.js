@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'nadjaroemer', 
+  organizationName: 'Nadjaroemer', 
   projectName: 'nadjaroemer.github.io', 
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
