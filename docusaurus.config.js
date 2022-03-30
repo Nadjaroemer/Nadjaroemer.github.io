@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'nadjaroemer', 
   projectName: 'nadjaroemer.github.io', 
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
   presets: [
     [
