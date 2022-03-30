@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Nadjaroemer', 
-  projectName: 'nadjaroemer.github.io', 
+  projectName: 'Nadjaroemer.github.io', 
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
   presets: [
